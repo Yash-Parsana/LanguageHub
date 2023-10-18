@@ -1,0 +1,66 @@
+.sanskrit-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #dde8f6;
+  width: 1440px;
+  height: 1024px;
+}
+.grammer,
+.languages-icon {
+  position: absolute;
+  top: 352.99px;
+  left: 77px;
+}
+.languages-icon {
+  top: 52px;
+  left: 52px;
+  width: 210px;
+  height: 228px;
+  object-fit: cover;
+}
+.grammer-parent,
+.group-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 331.47px;
+  height: 332.99px;
+}
+.grammer-parent {
+  top: 315px;
+  left: 270px;
+
+  height: 394.99px;
+}
+.speaking1,
+.talking-icon {
+  position: absolute;
+  top: 352.99px;
+  left: 90.47px;
+}
+.talking-icon {
+  top: 58px;
+  left: 57.47px;
+  width: 227px;
+  height: 199px;
+  object-fit: cover;
+}
+.group-container {
+  position: absolute;
+  top: 315px;
+  left: 839.53px;
+
+  width: 331.47px;
+  height: 394.99px;
+}
+.sanskrit1 {
+  background-color: #fff;
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 35px;
+  color: #000;
+  font-family: Inter;
+}

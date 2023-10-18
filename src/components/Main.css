@@ -1,0 +1,115 @@
+.main-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #dde8f6;
+  width: 1440px;
+  height: 1024px;
+}
+.text {
+  position: absolute;
+  top: calc(50% - 368px);
+  left: 112px;
+  font-size: 70px;
+  font-weight: 800;
+  display: inline-block;
+  width: 1216px;
+  height: 105px;
+}
+.frame-child {
+  position: absolute;
+  top: -12px;
+  left: -12px;
+  border-radius: 16px;
+  background-color: #e9b824;
+  border: 12px solid #d83f31;
+  box-sizing: border-box;
+  width: 413px;
+  height: 463px;
+  cursor: pointer;
+}
+.frame-item {
+  position: absolute;
+  top: 23px;
+  left: 33px;
+  border-radius: 25px;
+  width: 325px;
+  height: 260px;
+  object-fit: cover;
+}
+.sanskrit {
+  position: absolute;
+  top: calc(50% + 54.5px);
+  left: calc(50% - 91.5px);
+  font-weight: 800;
+  display: inline-block;
+  width: 292px;
+  height: 91px;
+}
+.main-inner,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 297px;
+  height: 541px;
+}
+.main-inner {
+  top: 379px;
+  left: 202px;
+  color: #0b0067;
+}
+.frame-inner,
+.rectangle-icon {
+  position: absolute;
+  border-radius: 25px;
+}
+.frame-inner {
+  top: -12px;
+  left: -12px;
+  background-color: #2f5591;
+  border: 12px solid #f14c67;
+  box-sizing: border-box;
+  width: 411px;
+  height: 463px;
+  cursor: pointer;
+}
+.rectangle-icon {
+  top: 23px;
+  left: 31px;
+  width: 324px;
+  height: 263px;
+  object-fit: cover;
+}
+.english {
+  position: absolute;
+  top: 312px;
+  left: 80px;
+  font-weight: 800;
+  display: inline-block;
+  width: 253px;
+  height: 90px;
+}
+.group-div,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 296px;
+  height: 541px;
+}
+.group-div {
+  top: 379px;
+  left: 881px;
+  color: #fff;
+}
+.main {
+  background-color: #fff;
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 64px;
+  color: #000;
+  font-family: Inter;
+}
